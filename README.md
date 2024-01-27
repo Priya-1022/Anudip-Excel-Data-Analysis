@@ -32,7 +32,7 @@ This repository contains Excel files and associated documentation for data analy
 
 ## Excel Files
 
-1. `sales_data.xlsx`
+1. `Data Analysis - Caselet#2.xlsx`
  - Contains raw sales data for analysis.
  - Financial report template for budget analysis.
 
