@@ -1,6 +1,6 @@
 # Anudip Excel Data Analysis
 
-This repository contains Excel files and associated documentation for data analysis tasks. The purpose of this project is to [provide a brief description of the project's objectives or goals].
+This repository contains Excel files and associated documentation for data analysis tasks. The purpose of this project is to provide a idea on Data visualization  using Excel File.
 
 ## Table of Contents
 
@@ -38,8 +38,9 @@ This repository contains Excel files and associated documentation for data analy
 
 ## Documentation
 
-1. `data_analysis_guide.pdf` - Step-by-step guide on performing data analysis using the provided Excel files.
-2. `excel_formulas_cheatsheet.xlsx` - Cheatsheet for commonly used Excel formulas.
+1. `excel_analysis.ipynb`
+ - Step-by-step guide on performing data analysis using the provided Excel files.
+ - Cheatsheet for commonly used Excel formulas.
 
 ## Contributing
 
